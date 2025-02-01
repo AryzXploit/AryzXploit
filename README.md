@@ -1,33 +1,31 @@
-<h1 align="center">Hi there, I'm AryzXploit 👋</h1>
+### Hi there, I'm AryzXploit! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AryzXploit&label=Profile%20Views&color=blue&style=plastic" alt="ArzXploit profile views" />
-</p>
+💻 **Developer & Security Enthusiast**  
+🚀 Passionate about Web Development & Cybersecurity  
+🔥 Exploring new technologies and improving my skills
 
-## 🧑‍💻 About Me:
-- 🔐 Passionate about coding & cybersecurity
-- 🕵️ Bug bounty learner
-- 🩺 Medical coder
-- 🚀 Exploring new tools (Ruby, Metasploit)
-- 🤝 Open to collaboration & learning every day
+---
 
-## 🛠️ Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" />
-  <img src="https://img.shields.io/badge/-Metasploit-4E2A8E?logo=metasploit&logoColor=white&style=flat" />
-</p>
+### 🛠 Tech Stack:
+- 💻 **Languages**: Python, JavaScript, Go, PHP, HTML, CSS
+- 🎨 **Frameworks**: Laravel
+- 🔧 **Tools**: VS Code, Git, GitHub, Linux, Docker
+- 🌐 **Web**: REST API, Frontend & Backend Development
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryzXploit&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+---
+
+### 📊 GitHub Stats:
+![AryzXploit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryzXploit&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryzXploit&layout=compact&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AryzXploit&theme=dracula)
+
+---
+
+### 🔗 Connect with Me:
+[![GitHub](https://img.shields.io/badge/GitHub-AryzXploit-black?style=for-the-badge&logo=github)](https://github.com/AryzXploit)
+
 
 ## 📈 Most Used Languages:
 <p align="center">
