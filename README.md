@@ -25,3 +25,5 @@
 
 ### 🔗 Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-AryzXploit-black?style=for-the-badge&logo=github)](https://github.com/AryzXploit)
+[![YouTube](https://img.shields.io/badge/YouTube-XDevTools-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@XDevTools)
+[![TikTok](https://img.shields.io/badge/TikTok-JaxTheWhiteHat-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@jaxthewhitehat)
