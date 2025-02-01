@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm ArzXploit 👋</h1>
+<h1 align="center">Hi there, I'm AryzXploit 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArzXploit&label=Profile%20Views&color=blue&style=plastic" alt="ArzXploit profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AryzXploit&label=Profile%20Views&color=blue&style=plastic" alt="ArzXploit profile views" />
 </p>
 
 ## 🧑‍💻 About Me:
@@ -26,12 +26,12 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArzXploit&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryzXploit&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 📈 Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArzXploit&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryzXploit&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ## 💰 Support Me:
