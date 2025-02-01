@@ -1,29 +1,29 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+# 👻 BRAVO SIX, GOING DARK 🕶️
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+![Banner](https://via.placeholder.com/1920x300.png/000000/FFFFFF?text=Ghost+In+The+Shell)
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+## 🛠️ Tech Stack
+**Languages:**  
+`Python` `Ruby` `PHP` `JavaScript` `C++` `HTML` `PowerShell`
+
+**Frameworks & Tools:**  
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel" /> <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs" /> 
+<img src="https://img.shields.io/badge/-Apache-D22128?logo=apache" /> 
+<img src="https://img.shields.io/badge/-Metasploit-252525?logo=metasploit" />
+
+## 📊 GitHub Stats
+| **Metric**           | **Stats**          |
+|----------------------|--------------------|
+| 🔭 Total Stars       | 186                |
+| 📝 Total Commits     | 232                |
+| 🎯 Contributed to    | 0 (last year)      |
+| 🏆 Longest Streak    | 6 days             |
+
+```python
+# Most Used Languages
+def language_stats():
+    return {
+        'Python': '86.71% 🐍',
+        'Ruby': '11.35% 💎',
+        'HTML': '1.93% 🌐'
+    }
