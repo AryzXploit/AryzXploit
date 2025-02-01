@@ -1,5 +1,7 @@
 ### Hi there, I'm AryzXploit! 👋🚀
 
+![GIF](https://media1.tenor.com/m/PMPMAA-cXtsAAAAd/anna-yamada-boku-no-kokoro-no-yabai-yatsu.gif)
+
 💻 **Developer & Security Enthusiast**  
 🚀 Passionate about Web Development & Cybersecurity 🔐  
 🔥 Exploring new technologies and improving my skills 🛠️
