@@ -11,19 +11,20 @@
 <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache" /> 
 <img src="https://img.shields.io/badge/-Metasploit-252525?logo=metasploit" />
 
-## 📊 GitHub Stats
-| **Metric**           | **Stats**          |
-|----------------------|--------------------|
-| 🔭 Total Stars       | 186                |
-| 📝 Total Commits     | 232                |
-| 🎯 Contributed to    | 0 (last year)      |
-| 🏆 Longest Streak    | 6 days             |
+# 📊 GitHub Stats
 
+| Metric            | Stats          |
+|-------------------|----------------|
+| ⭐ Total Stars     | 186            |
+| 📝 Total Commits   | 232            |
+| 🤝 Contributed to  | 0 (last year)  |
+| 🔥 Longest Streak  | 6 days         |
+
+# 💻 Most Used Languages
 ```python
-# Most Used Languages
 def language_stats():
     return {
         'Python': '86.71% 🐍',
-        'Ruby': '11.35% 💎',
+        'Ruby': '11.35% 💎', 
         'HTML': '1.93% 🌐'
     }
