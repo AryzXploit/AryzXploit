@@ -36,8 +36,4 @@
 
 ---
 
-### 🔗 Connect with Me:
-![GitHub](https://komarev.com/ghpvc/?username=AryzXploit&label=GitHub&color=black&style=flat)
-[![YouTube](https://komarev.com/ghpvc/?username=XDevTools&label=YouTube&color=red&style=flat)](https://www.youtube.com/@XDevTools)
-[![TikTok](https://komarev.com/ghpvc/?username=JaxTheWhiteHat&label=TikTok&color=black&style=flat)](https://www.tiktok.com/@jaxthewhitehat)
 
