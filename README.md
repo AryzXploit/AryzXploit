@@ -2,11 +2,22 @@
 
 ![GIF](https://media1.tenor.com/m/Dq7Tg9ic_IkAAAAd/bokuyaba-boku-no-kokoro-no-yabai-yatsu.gif)
 
-💻 **Developer & Security Enthusiast**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AryzXploit&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/AryzXploit"><img src="https://komarev.com/ghpvc/?username=AryzXploit&label=GitHub&color=blue&style=flat" alt="GitHub" /></a>
+  <a href="https://www.youtube.com/@XDevTools"><img src="https://komarev.com/ghpvc/?username=XDevTools&label=YouTube&color=blue&style=flat" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@jaxthewhitehat"><img src="https://komarev.com/ghpvc/?username=JaxTheWhiteHat&label=TikTok&color=blue&style=flat" alt="TikTok" /></a>
+</p>
+
+💻 **Developer, Security Enthusiast & Bug Hunter Learner**  
 🚀 Passionate about Web Development & Cybersecurity 🔐  
 🔥 Exploring new technologies and improving my skills 🛠️
 
----
+
+--- 
 
 ### 🛠 Tech Stack:
 - 💻 **Languages**: 🐍 Python, 🟨 JavaScript, 🦫 Go, 🐘 PHP, 🎨 HTML, 🎨 CSS
@@ -26,6 +37,7 @@
 ---
 
 ### 🔗 Connect with Me:
-[![GitHub](https://img.shields.io/badge/GitHub-AryzXploit-black?style=for-the-badge&logo=github)](https://github.com/AryzXploit)
-[![YouTube](https://img.shields.io/badge/YouTube-XDevTools-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@XDevTools)
-[![TikTok](https://img.shields.io/badge/TikTok-JaxTheWhiteHat-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@jaxthewhitehat)
+![GitHub](https://komarev.com/ghpvc/?username=AryzXploit&label=GitHub&color=black&style=flat)
+[![YouTube](https://komarev.com/ghpvc/?username=XDevTools&label=YouTube&color=red&style=flat)](https://www.youtube.com/@XDevTools)
+[![TikTok](https://komarev.com/ghpvc/?username=JaxTheWhiteHat&label=TikTok&color=black&style=flat)](https://www.tiktok.com/@jaxthewhitehat)
+
