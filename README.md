@@ -1,4 +1,4 @@
-### Hi there, I'm AryzXploit! 👋🚀
+### HALO CIK WELCOME 👋🚀
 
 ![GIF](https://media1.tenor.com/m/Dq7Tg9ic_IkAAAAd/bokuyaba-boku-no-kokoro-no-yabai-yatsu.gif)
 
