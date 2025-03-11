@@ -49,7 +49,7 @@
 
 🎯 **Developers 0zer0Tools** - Tools buat bantu hunting subdomain pake httpx, cek di repo gw!
 
-📺 **Kelas Bug Hunter** - Ngajar di Discord buat yang mau belajar hacking legal [Disini Cuy!🚀](discord.gg/selenium)
+📺 **Kelas Bug Hunter** - Ngajar di Discord buat yang mau belajar hacking legal [Disini Cuy!🚀](https://discord.gg/selenium)
 
 ---
 
