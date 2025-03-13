@@ -55,12 +55,8 @@
 
 ## 🏆 Sertifikat & Prestasi:
 
-🏅 **Linux Command-Line & Shell Scripting for Absolute Beginners** - Udemy
-
-🏅 **Mastering Black Hat Techniques: A Guide to Hacking & Cyberse** - Udemy
-
-🏅 **The Complete Ethical Hacking Course: Kali Linux 2025 - Udemy**
----
-
+- 🏅 **Linux Command-Line & Shell Scripting for Absolute Beginners** - Udemy  
+- 🏅 **Mastering Black Hat Techniques: A Guide to Hacking & Cyberse** - Udemy  
+- 🏅 **The Complete Ethical Hacking Course: Kali Linux 2025 - Udemy**  
 
 > "Bug bounty itu bukan soal dapet duit, tapi soal ngerasain sakitnya ditolak!" 🤣🔥
