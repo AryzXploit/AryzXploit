@@ -59,7 +59,7 @@
 
 🎖 **Mastering Black Hat Techniques: A Guide to Hacking & Cyberse** - Udemy
 
-🎖 **The Complete Ethical Hacking Course: Kali Linux 2025 Edition** - Udemy
+🎖 **The Complete Ethical Hacking Course: Kali Linux 2025** - Udemy
 ---
 
 
