@@ -55,11 +55,11 @@
 
 ## 🏆 Sertifikat & Prestasi:
 
-🎖 **Linux Command-Line & Shell Scripting for Absolute Beginners** - Udemy
+🏅 **Linux Command-Line & Shell Scripting for Absolute Beginners** - Udemy
 
-🎖 **Mastering Black Hat Techniques: A Guide to Hacking & Cyberse** - Udemy
+🏅 **Mastering Black Hat Techniques: A Guide to Hacking & Cyberse** - Udemy
 
-🎖 **The Complete Ethical Hacking Course: Kali Linux 2025** - Udemy
+🏅 **The Complete Ethical Hacking Course: Kali Linux 2025 - Udemy**
 ---
 
 
