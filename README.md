@@ -62,4 +62,5 @@
 - 🏅 **Practical IoT Security and Penetration testing**
 - 🏅 **Google Cloud Professional Cloud Architect: GCP Certification - Udemy**
 - 🏅 **DevSecOps: How to secure Web App with AWS WAF and CloudWatch - Udemy**
+- 🏅 **Computer Science MetaBootcamp - Udemy**
 > "Bug bounty itu bukan soal dapet duit, tapi soal ngerasain sakitnya ditolak!" 🤣🔥
