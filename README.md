@@ -59,7 +59,7 @@
 - 🏅 **Mastering Black Hat Techniques: A Guide to Hacking & Cyberse - Udemy**  
 - 🏅 **The Complete Ethical Hacking Course: Kali Linux 2025 - Udemy**  
 - 🏅 **BlackHat Live : Hands-On Hacking, No Theory - Udemy**
-- 🏅 **Practical IoT Security and Penetration testing**
+- 🏅 **Practical IoT Security and Penetration testing - Udemy**
 - 🏅 **Google Cloud Professional Cloud Architect: GCP Certification - Udemy**
 - 🏅 **DevSecOps: How to secure Web App with AWS WAF and CloudWatch - Udemy**
 - 🏅 **Computer Science MetaBootcamp - Udemy**
