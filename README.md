@@ -1,4 +1,4 @@
-# 👋 WELCOME TO MY BIO 🚀
+# 👾 AryzXploit — Bug Hunter | Dev | Educator
 
 ![GIF](https://media1.tenor.com/m/Dq7Tg9ic_IkAAAAd/bokuyaba-boku-no-kokoro-no-yabai-yatsu.gif)
 
@@ -6,61 +6,64 @@
   <img src="https://komarev.com/ghpvc/?username=AryzXploit&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/AryzXploit"><img src="https://komarev.com/ghpvc/?username=AryzXploit&label=GitHub&color=blue&style=flat" alt="GitHub" /></a>
-  <a href="https://www.youtube.com/@XDevTools"><img src="https://komarev.com/ghpvc/?username=XDevTools&label=YouTube&color=blue&style=flat" alt="YouTube" /></a>
-  <a href="https://www.tiktok.com/@jaxthewhitehat"><img src="https://komarev.com/ghpvc/?username=JaxTheWhiteHat&label=TikTok&color=blue&style=flat" alt="TikTok" /></a>
-</p>
+## 🧠 Tentang Gue
+
+🚀 **Bug Hunter aktif** di HackerOne, Bugcrowd, dan Intigriti  
+🔍 Fokus hunting: IDOR, CORS, SSRF, Email Bypass, dan Race Condition  
+💻 **Fullstack Dev** yang suka bikin tool sendiri (karena nungguin orang lain kelamaan)  
+🧑‍🏫 Ngajar cybersecurity & bug bounty tiap weekend  
+📚 Gila belajar, gila testing, gila report ditolak (tapi tetep submit 😆)
 
 ---
 
-## 💻 Siapa Gue? 🕵️‍♂️
+## 🔧 Tools & Stack
 
-- 🚀 **Bug Hunter in Progress** 🐛💥
-- 🔥 **Developer ngulik keamanan web** 🔐
-- 📖 **Suka belajar & explore dunia hacking legal** ⚡
-- 🎮 **Main game? Mending hack game!** 😆
-- 🛠 **Coding bukan hobi, tapi kebutuhan!**
-
----
-
-## 🛠 Tech Stack: 
-
-- 💻 **Bahasa Pemrograman:** 🐍 Python, 🟨 JavaScript, 🦫 Go, 🐘 PHP, 🎨 HTML, 🎨 CSS
-- 🎨 **Framework:** ⚡ Laravel
-- 🔧 **Alat Tempur:** 📝 VS Code, 🏗️ Git, 🐙 GitHub, 🐧 Linux, 🐳 Docker
-- 🌐 **Web & Keamanan:** 🔗 REST API, 🎭 Frontend & Backend, 🔍 Subdomain Enumeration
+- **Lang:** Python, JS, Go, PHP, HTML/CSS  
+- **Framework:** Laravel, React, Flask  
+- **Dev Tools:** VS Code, GitHub, Docker, Burp, Nuclei, FFUF, Subfinder  
+- **OS:** Kali Linux, Ubuntu, WSL  
+- **Spesialis:** Automation tools, Recon, Vulnerability PoC builder
 
 ---
 
-## 📊 Statistik:
+## 🧪 Proyek & Tools
 
-📌 ![AryzXploit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryzXploit&show_icons=true&theme=tokyonight)
-
-📌 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryzXploit&layout=compact&theme=radical)
-
-🏆 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AryzXploit&theme=dracula)
-
----
-
-## 🚀 Portofolio & Proyek:
-
-🔥 **LostSec Website** - Tempat ini ngasih gw ngasih tutorial buat bug hunter pemula! Dibangun pake React.js & Tailwind CSS. [Cek di sini!](https://lostsec.xyz)
-
-🎯 **Developers 0zer0Tools** - Tools buat bantu hunting subdomain pake httpx, cek di repo gw!
-
-📺 **Kelas Bug Hunter** - Ngajar di Discord buat yang mau belajar hacking legal [Disini Cuy!🚀](https://discord.gg/selenium)
+- 🛠 `0zer0Tools` – Recon otomatis buat subdomain + vuln scan  
+- 🌐 `LostSec` – Web edukasi bug bounty dari nol [lostsec.xyz](https://lostsec.xyz)  
+- ⚙️ `XploitDorker` – Google Dorking auto scan vuln endpoint  
+- 💥 `DarkRecon` – Multi-module hacking tool (CORS, LFI, RCE, dll)  
+- 🎮 `DarkBrute` – UI tool buat bruteforce login + webhook result
 
 ---
 
-## 🏆 Sertifikat & Prestasi:
+## 📜 Sertifikat
 
-- 🏅 **Linux Command-Line & Shell Scripting for Absolute Beginners - Udemy** 
-- 🏅 **Mastering Black Hat Techniques: A Guide to Hacking & Cyberse - Udemy**  
-- 🏅 **The Complete Ethical Hacking Course: Kali Linux 2025 - Udemy**  
-- 🏅 **BlackHat Live : Hands-On Hacking, No Theory - Udemy**
-- 🏅 **Practical IoT Security and Penetration testing - Udemy**
-- 🏅 **Google Cloud Professional Cloud Architect: GCP Certification - Udemy**
-- 🏅 **DevSecOps: How to secure Web App with AWS WAF and CloudWatch - Udemy**
-- 🏅 **Computer Science MetaBootcamp - Udemy**
-> "Bug bounty itu bukan soal dapet duit, tapi soal ngerasain sakitnya ditolak!" 🤣🔥
+- **Complete Ethical Hacking – Kali Linux 2025 (Udemy)**  
+- **IoT Security & Pentest (Udemy)**  
+- **Google Cloud Architect (Udemy)**  
+- **DevSecOps AWS WAF (Udemy)**  
+- **Black Hat Hands-On Live (Udemy)**  
+- **Csrit Jakarta**
+- **Csrit Jogjakota**
+
+---
+
+## 🏆 Statistik
+
+![AryzXploit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryzXploit&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryzXploit&layout=compact&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AryzXploit&theme=dracula)
+
+---
+
+## 📲 Connect
+
+- GitHub: [@AryzXploit](https://github.com/AryzXploit)  
+- YouTube: [@XDevTools](https://www.youtube.com/@XDevTools)  
+- TikTok: [@JaxTheWhiteHat](https://www.tiktok.com/@jaxthewhitehat)  
+- Discord (Komunitas): [Selenium](https://discord.gg/selenium)
+
+---
+
+> "Yang penting bukan duitnya, tapi rasa sakit ditolak report itu loh, bikin candu!" 🤣🔥
+
